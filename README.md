@@ -23,12 +23,6 @@ Projeto do curso barbearia [Alura](https://www.alura.com.br/), com a finalidade 
 
 ---
 
-## Como baixar o projecto
-
-```bash
-# Clonar o repositório
-$ https://github.com/josedivan/Barbearia-Alura
-````
 ---
 
 ### :computer: Acesso ao site 
