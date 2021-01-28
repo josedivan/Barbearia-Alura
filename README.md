@@ -23,7 +23,6 @@ Projeto do curso barbearia [Alura](https://www.alura.com.br/), com a finalidade 
 
 ---
 
----
 
 ### :computer: Acesso ao site 
 
